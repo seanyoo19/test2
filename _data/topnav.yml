@@ -5,6 +5,8 @@ topnav:
   items:
     - title: UCAR
       external_url: https://www.ucar.edu/
+    - title: NCAR
+      external_url: https://ncar.ucar.edu/
     - title: News
       url: /news
 
