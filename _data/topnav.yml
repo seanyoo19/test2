@@ -3,8 +3,8 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
+    - title: UCAR
+      external_url: https://www.ucar.edu/
     - title: News
       url: /news
 
