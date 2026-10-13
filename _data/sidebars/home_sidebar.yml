@@ -1,4 +1,5 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+# When you click news uptop, this is the sidebar that shows
 
 entries:
 - title: Sidebar
